@@ -3,8 +3,12 @@ Laboratory Projects in Arduino
 
 #1  LED control
 
-#2  Button SPST
+#2  GPIO PINS & Microcontroller Exploration
 
-#3  Interrupt
+#3  Interrupt-Driven Program
 
-#4  Sensors (Potentiometer, Light, Temperature, Motion)
+#4  Interfacing Sensors (Potentiometer, Light, Temperature, Motion)
+
+#5  Interfacing Actuators
+
+#6  Simple RTOS Task Scheduling using FreeRTOS
